@@ -1,8 +1,7 @@
-![Dashboard Preview](https://github.com/TusharKundekar/SampleSuperStore-Excel-Dashboard/blob/main/Dashboard%20Snapshot.jpg)
-![Dashboard Preview](https://github.com/TusharKundekar/SampleSuperStore-Excel-Dashboard/blob/main/Dashboard%20Snapshot.jpg)
-![Dashboard Preview](https://github.com/TusharKundekar/SampleSuperStore-Excel-Dashboard/blob/main/Dashboard%20Snapshot.jpg)
-![Dashboard Preview](https://github.com/TusharKundekar/SampleSuperStore-Excel-Dashboard/blob/main/Dashboard%20Snapshot.jpg)
-
+![Dashboard Preview](https://github.com/TusharKundekar/Spotify-with-Power-BI-AI/blob/main/Home.jpg)
+![Dashboard Preview](https://github.com/TusharKundekar/Spotify-with-Power-BI-AI/blob/main/Overview.jpg)
+![Dashboard Preview](https://github.com/TusharKundekar/Spotify-with-Power-BI-AI/blob/main/Artists.jpg)
+![Dashboard Preview](https://github.com/TusharKundekar/Spotify-with-Power-BI-AI/blob/main/Songs.jpg)
 
 # Spotify-with-Power-BI-AI
 🎧 Spotify Listening Habits Dashboard built with Power BI &amp; AI! 📊 Dive into 789 tracks, top artists 🎤, song trends 🎵, album types 💿, and monthly activity 📆. Powered by DAX + ChatGPT 🤖 for smart insights &amp; smooth interactivity. A fun, data-driven story of music! 🎶
