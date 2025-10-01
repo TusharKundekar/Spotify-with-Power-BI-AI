@@ -1,3 +1,4 @@
+[![Watch the dashboard in action](https://github.com/TusharKundekar/Spotify-with-Power-BI-AI/blob/main/Home.jpg)](https://github.com/TusharKundekar/Spotify-with-Power-BI-AI/blob/main/Dashboard%20Workings.mp4)
 ![Dashboard Preview](https://github.com/TusharKundekar/Spotify-with-Power-BI-AI/blob/main/Home.jpg)
 ![Dashboard Preview](https://github.com/TusharKundekar/Spotify-with-Power-BI-AI/blob/main/Overview.jpg)
 ![Dashboard Preview](https://github.com/TusharKundekar/Spotify-with-Power-BI-AI/blob/main/Artists.jpg)
