@@ -1,10 +1,5 @@
 ## 🎥 Dashboard Preview (Interactive Walkthrough)
-
-[![Watch the dashboard in action](https://github.com/TusharKundekar/Spotify-with-Power-BI-AI/blob/main/Home.jpg)](https://github.com/TusharKundekar/Spotify-with-Power-BI-AI/blob/main/Dashboard%20Workings.mp4)
-
-Click the image above to watch a screen recording of the dashboard in action!
-
-/*![Dashboard Preview](https://github.com/TusharKundekar/Spotify-with-Power-BI-AI/blob/main/Home.jpg)*/
+![Dashboard Preview](https://github.com/TusharKundekar/Spotify-with-Power-BI-AI/blob/main/Home.jpg)
 ![Dashboard Preview](https://github.com/TusharKundekar/Spotify-with-Power-BI-AI/blob/main/Overview.jpg)
 ![Dashboard Preview](https://github.com/TusharKundekar/Spotify-with-Power-BI-AI/blob/main/Artists.jpg)
 ![Dashboard Preview](https://github.com/TusharKundekar/Spotify-with-Power-BI-AI/blob/main/Songs.jpg)
