@@ -1,3 +1,6 @@
+<video>
+        <video src="your_video_url.mp4" controls width="640" height="360">
+</video>
 ![Dashboard Preview](https://github.com/TusharKundekar/Spotify-with-Power-BI-AI/blob/main/Home.jpg)
 ![Dashboard Preview](https://github.com/TusharKundekar/Spotify-with-Power-BI-AI/blob/main/Overview.jpg)
 ![Dashboard Preview](https://github.com/TusharKundekar/Spotify-with-Power-BI-AI/blob/main/Artists.jpg)
